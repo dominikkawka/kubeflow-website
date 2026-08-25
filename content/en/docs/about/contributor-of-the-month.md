@@ -13,4 +13,8 @@ Please review the elegibilily criteria and process in the [Kubeflow community](h
 
 Sponsors will be submitting the nominations in the following [link](https://forms.gle/LCKY8NX3pzrmYUdr6)
 
+## Contributors of the Month
 
+| Date     | Name             | GitHub Handle                                          |
+| -------- | ---------------- | ------------------------------------------------------ |
+| Jul 2026 | Christian Heusel |[@christian-heusel](https://github.com/christian-heusel)|
